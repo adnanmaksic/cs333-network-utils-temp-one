@@ -14,3 +14,11 @@ This repository contains a collection of network utilities designed for educatio
 To get started with the network utilities, follow these steps:
 
 - Install UV
+
+## Network Packet Structure
+
+- Document the packet structure used by the utilities, including headers, payloads, and any custom fields.
+
+### Sources
+
+- List any sources or references used in the development of the utilities, such as textbooks, online resources, or research papers.
