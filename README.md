@@ -6,10 +6,8 @@ Example code for CS333 Spring 2026 — a simple packet builder and parser in Pyt
 
 ## Team Members
 
-- Alice Smith
-- Bob Johnson
-- Charlie Davis
-
+- Nathan Marquis
+- Ado Maksic
 ---
 
 ## Quick Start
